@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=11B48A&height=100&section=header&text=Eunsung&nbsp;Lim&fontSize=40&fontColor=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=11B48A&height=150&section=header&text=Eunsung&nbsp;Lim&fontSize=40&fontColor=FFFFFF&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
