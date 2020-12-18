@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=11B48A&height=100&section=header&text=Eunsung&nbsp;Lim&fontSize=40&fontColor=FFFFFF&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <br>
@@ -23,3 +23,10 @@
   <img src="https://img.shields.io/badge/aws-232f3e?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/docker-2496ed?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
 </p>
+
+<br>
+<br>
+
+[![vegeshop's github stats](https://github-readme-stats.vercel.app/api?username=vegeshop&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vegeshop&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
