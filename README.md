@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-4479a1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Postgresql-336791?style=flat-square&logo=Postgresql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Travis-3EAAAF?style=flat-square&logo=travis&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-232f3e?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/docker-2496ed?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
 </p>
